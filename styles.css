@@ -72,8 +72,8 @@ header{
     display: flex;
     flex-direction: column;
     width: 100%;
-    margin: 70px 80px 70px 100px;
     justify-content: center;    
+    padding: 30px;
 }
 .container-tittle__1{
     display: flex;
@@ -84,14 +84,12 @@ header{
 .container-tittle__1 h3{
     font-size: 18px;
     color: var(--blue-light);
-    margin-left: 300px;
 }
 .container-tittle__1 h1{
     font-size: 48px;
     color: var(--gray1);
     width: 543px;
     height: 144px;
-    margin-left: 300px;
 }
 .container-tittle__1 img{
     width: 90%;
