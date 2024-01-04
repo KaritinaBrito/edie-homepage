@@ -92,7 +92,7 @@ header{
     height: 144px;
 }
 .container-tittle__1 img{
-    width: 90%;
+    max-width: 90%;
     height: 390px;
     border-radius: 10px;
 }
